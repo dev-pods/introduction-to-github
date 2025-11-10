@@ -6,21 +6,21 @@
   and that the file was named correctly.
 -->
 
-## Step 3: Open a pull request
+## Passo 3: Abrir um pull request
 
-_Nice work making that commit! :sparkles:_
+_Bom trabalho fazendo aquele commit! :sparkles:_
 
-Now that you have made a change to the project and created a commit, it’s time to share your proposed change through a pull request!
+Agora que você fez uma alteração no projeto e criou um commit, é hora de compartilhar sua alteração proposta através de um pull request!
 
-**What is a pull request?**: Collaboration happens on a _[pull request](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request)_. The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. In a side by side comparison, this pull request is going to keep the changes you just made on your branch and propose applying them to the `main` project branch. For more information about pull requests, see "[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
+**O que é um pull request?**: A colaboração acontece em um _[pull request](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request)_. O pull request mostra as alterações no seu branch para outras pessoas e permite que elas aceitem, rejeitem ou sugiram alterações adicionais ao seu branch. Em uma comparação lado a lado, este pull request manterá as alterações que você acabou de fazer no seu branch e proporá aplicá-las ao branch `main` do projeto. Para mais informações sobre pull requests, consulte "[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Atividade: Criar um pull request
 
-You may have noticed after your commit that a message displayed indicating your recent push to your branch and providing a button that says **Compare & pull request**.
+Você pode ter notado após seu commit que uma mensagem foi exibida indicando seu recente push para seu branch e fornecendo um botão que diz **Compare & pull request**.
 
 ![screenshot of message and button](/images/compare-and-pull-request.png)
 
-To create a pull request automatically, click **Compare & pull request**, and then skip to step 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
+Para criar um pull request automaticamente, clique em **Compare & pull request** e pule para o passo 6 abaixo. Se você não clicar no botão, as instruções abaixo o guiarão pela configuração manual do pull request.
 
 1. Click on the **Pull requests** tab in the header menu of your repository.
 2. Click **New pull request**.
@@ -39,6 +39,6 @@ To create a pull request automatically, click **Compare & pull request**, and th
 9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 > [!NOTE]
-> You may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
+> Você pode ver evidências do GitHub Actions sendo executado na aba com o pull request aberto! A imagem abaixo mostra uma linha que você pode ver no seu pull request depois que a Action terminar de executar.
 > 
 > ![screenshot of an example of an actions line](/images/Actions-to-step-4.png)
